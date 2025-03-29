@@ -1,0 +1,10 @@
+will be a button called let's start will call the ask_wedding_date endpoint and button called ask me to call ask_ai endpoint.
+the date input will be from text box of chat as json, when user click send button will call the set_wedding_date endpoint.
+the date input will be from text box of chat as json, when user click send button will call the set_budget endpoint.
+will be button called continue will call ask_vibes endpoint and other called modify manually.
+each vibe will be as banner and when user click it will call the set_vibes endpoint.
+the input will be from text box of chat as json,when user click send button will call the select_venue endpoint.
+each wedding place will be as a banner, and when user click it will redirect him to the place page.
+will be two button one called Mange Guest list will redirect him to manage guest list page and another called select invitation that will call the get_invitation_templates endpoint.
+each invitation template will be as a banner, and when user click it will call set_invitation endpoint.
+will be a button called send will redirect the user to invitation page, and another called ask me to call ask_ai endpoint.
